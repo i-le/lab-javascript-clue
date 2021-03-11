@@ -10,6 +10,7 @@ When playing Clue, these three details are represented by a **suspect** card, a 
 
 <p align="center"><img width="400" src="https://i.imgur.com/AZWieq9.jpg=300"/></p>
 
+
 ## Requirements
 
 - Fork this repo
